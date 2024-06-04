@@ -1,0 +1,10 @@
+2nd attempt at a neural network
+-> now understand basic calc
+26/05/24
+
+neuralNetwork4.py works! :)
+
+
+if "frome keras.datasets import mnist" doesn't get pylance's approval replace with:
+import keras
+mnist = keras.datasets.mnist

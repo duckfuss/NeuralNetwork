@@ -1,5 +1,6 @@
 # NeuralNetwork
 Neural network built from scratch
+Simple MLP
 
 # Intro
 
